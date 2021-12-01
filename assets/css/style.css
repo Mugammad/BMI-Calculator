@@ -1,0 +1,45 @@
+#age {
+    width: 100%;
+}
+
+#weight {
+    width: 100%;
+}
+
+#height {
+    width: 100%;
+}
+
+.bmi-container {
+    max-width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#gndr {
+    width: 100%;
+}
+
+.output {
+    height: 30px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#outputBmi{
+    border: 1px solid;
+    border-radius: 2px;
+}
+
+#IdealBmi{
+    border: 1px solid;
+    border-radius: 2px;
+}
+
+.btn {
+    width: 100%;
+}
+
